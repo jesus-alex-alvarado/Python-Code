@@ -6,10 +6,7 @@ This repository will be used for storing Python code with varius applications to
 
 - [Network Scanning]
 
-<h2>Languages and Utilities Used</h2>
-
-<b>PowerShell</b> 
-- [PowerShell Script](https://github.com/jesus-alex-alvarado/ActiveDirectoryLab/blob/main/AD_PS-master.7z)
+<h2>Initial Access</h2>
 
 
 
