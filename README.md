@@ -5,10 +5,8 @@ This repository will store Python code for various applications that help automa
 <br />
 
 <h2>Network Scanning</h2>
-- Network Scanning
 
 <h2>Initial Access</h2>
-- Initial Access
 
 
 <!--
