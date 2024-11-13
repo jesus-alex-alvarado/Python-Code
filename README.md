@@ -1,14 +1,14 @@
 # Python-Code
 
 <h2>Description</h2>
-This repository will be used for storing Python code with varius applications to help automate/detect Cybersecurity tasks/threats.
+This repository will store Python code for various applications that help automate and detect Cybersecurity tasks and threats.
 <br />
 
-<h2>Network Scanning</h2>h2
-- [Network Scanning]
+<h2>Network Scanning</h2>
+- Network Scanning
 
 <h2>Initial Access</h2>
-- [Initial Access]
+- Initial Access
 
 
 <!--
