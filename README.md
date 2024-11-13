@@ -1,5 +1,4 @@
 # Python-Code
-<h1>Python Code</h1>
 
 <h2>Description</h2>
 This repository will be used for storing Python code with varius applications to help automate/detect Cybersecurity tasks/threats.
